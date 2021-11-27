@@ -1,18 +1,18 @@
 {
     "self_mode": false,
-	"autobio": false,
+	"autobio": true,
 	"antihidetag": true,
 	"user_register": false,
 	"anti_delete" : false,
-	"anticall": false,
+	"anticall": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
-	"botname":"Ａʟᴘʜᴀʙᴏᴛ",
+	"ownerNumber": "6285895897859",
+	"ownerNumberr": "6285895897859",
+	"cr": "@Rizal",
+	"ownername": "Rizal",
+	"botname":"R-BOT",
 	"thumb":"thumbnail_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  Ａʟᴘʜᴀʙᴏᴛ  」\nCreated By @ZeeoneOfc"
+	"fake": " 「  R-BOT  」\nCreated By @Rizal"
 }
